@@ -1,12 +1,17 @@
-<h1 align="center">Hi 👋, I'm Akash Kumar Panda</h1>
+<div align="center">
 
-<h3 align="center">
-A Passionate IoT & Embedded Systems Enthusiast from India 🇮🇳
-</h3>
+# Hi 👋 I'm Akash Kumar Panda
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(IoT)+Student;Python+Developer;Raspberry+Pi+Enthusiast;IoT+%7C+Automation+%7C+Robotics;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(IoT)+Student;Python+Developer;IoT+%7C+Embedded+Systems;Raspberry+Pi+Enthusiast;Always+Learning+Something+New"/>
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white"/>
+<img src="https://img.shields.io/badge/IoT-00C853?style=for-the-badge"/>
 </p>
+
+</div>
 
 ---
 
@@ -14,61 +19,21 @@ A Passionate IoT & Embedded Systems Enthusiast from India 🇮🇳
 
 🎓 B.Tech CSE (IoT) Student at **ITER, SOA University**
 
-💻 Passionate about **IoT, Embedded Systems, Raspberry Pi and Automation**
+💻 Interested in **IoT, Embedded Systems, Automation and Robotics**
 
-🌱 Currently improving my skills in
+🌱 Currently learning **Python, DSA and Raspberry Pi Development**
 
-- Python
-- Raspberry Pi
-- IoT Development
-- Data Structures & Algorithms
-
-⚡ I enjoy building real-world automation and robotics projects.
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/akash-kumar-panda-296478329">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:akashkumarpanda2005@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Akashpanda9">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
+⚡ Building practical projects using hardware and software.
 
 ---
 
 ## 💻 Tech Stack
 
-### Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,vscode"/>
+
 </p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse"/>
-</p>
-
-### Interests
-
-<p>
-<img src="https://skillicons.dev/icons?i=raspberrypi"/>
-</p>
-
-- IoT
-- Embedded Systems
-- Robotics
-- Automation
 
 ---
 
@@ -76,79 +41,70 @@ A Passionate IoT & Embedded Systems Enthusiast from India 🇮🇳
 
 🎓 **B.Tech Computer Science & Engineering (IoT)**
 
-Institute of Technical Education and Research (ITER)
+🏫 ITER, SOA University
 
-SOA University
+📍 Bhubaneswar, Odisha
 
-**CGPA:** 7.97
+📈 CGPA: **7.97**
 
 ---
 
 ## 🏆 Certifications
 
-- ISRO IIRS – AI/ML for Geodata Analysis
-- HP LIFE – AI for Beginners
-- Deloitte – Workforce Potential Badge
-- Pod.ai – SQL vs NoSQL Databases
-- Pod.ai – HTML Semantics and Rendering
+✅ ISRO IIRS – AI/ML for Geodata Analysis
+
+✅ HP LIFE – AI for Beginners
+
+✅ Deloitte – Workforce Potential Badge
+
+✅ Pod.ai – SQL vs NoSQL Databases
+
+✅ Pod.ai – HTML Semantics and Rendering
 
 ---
 
-## 🏅 Achievements
-
-🏆 Developed multiple IoT and Robotics projects using Raspberry Pi.
-
-🏆 Participated in AI, IoT, Database and Web Technology workshops.
-
-🏆 Participated in ITER E-Summit Ideathon.
-
----
-
-## 🎯 Interests
-
-- Internet of Things
-- Embedded Systems
-- Raspberry Pi
-- Robotics
-- Automation
-- Python Development
-
----
-
-## 📈 GitHub Stats
+## 🌐 Connect
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Akashpanda9&show_icons=true&theme=tokyonight"/>
+<a href="mailto:akashkumarpanda2005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Akashpanda9&theme=tokyonight"/>
+<a href="https://linkedin.com/in/akash-kumar-panda-296478329">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashpanda9&layout=compact&theme=tokyonight"/>
+<a href="https://github.com/Akashpanda9">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </p>
 
 ---
 
-## 🐍 Contribution Graph
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Akashpanda9/Akashpanda9/output/github-contribution-grid-snake.svg"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Akashpanda9&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Akashpanda9&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashpanda9&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 💡 Quote
+<div align="center">
 
-> *"Building intelligent systems that solve real-world problems through IoT and automation."*
+### Thanks for visiting! ⭐
 
----
+<img src="https://komarev.com/ghpvc/?username=Akashpanda9&style=for-the-badge&color=blue"/>
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Akashpanda9&label=Profile+Views&color=blue&style=for-the-badge"/>
-
-</p>
+</div>
